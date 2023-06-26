@@ -7,7 +7,7 @@ let num2 = 25;
 let num3 = 10;
 
 // 2. atsispausdinti kitamuoius
-console.log(num1);
+console.log(num1); // asdasdasd
 console.log(num2);
 console.log(num3);
 // 3. sukurti kitamaji rezultatas1 = ir jame
