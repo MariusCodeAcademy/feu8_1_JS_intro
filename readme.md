@@ -1,4 +1,8 @@
-# Uzduotys #1
+# Javascript
+
+pasiziureti angl video bent puse https://youtu.be/W6NZfCO5SIk
+
+## Uzduotys #1
 
 1. susikurti kintamuosius vardas, salis, megstamiausiasSkaicius, megstamiausia savaites diena (skaiciais 1-7)
 
