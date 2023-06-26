@@ -1,6 +1,6 @@
 # Javascript
 
-pasiziureti angl video bent puse https://youtu.be/W6NZfCO5SIk
+pasiziureti angl video bent puse (kas suprantat angliskai) https://youtu.be/W6NZfCO5SIk
 
 ## Uzduotys #1
 
