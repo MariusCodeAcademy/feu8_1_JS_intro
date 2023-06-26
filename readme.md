@@ -36,4 +36,8 @@ pasiziureti angl video bent puse (kas suprantat angliskai) https://youtu.be/W6NZ
 
 4. Susikurkite kintamąjį skaicius ir priskirkite jam bet kokį skaičių. Išspausdinkite šio skaičiaus kvadratinę šaknį naudodami console.log() funkciją.
 
-5.
+## kas viska pasidarete
+
+1. pabaigti ziureti video
+
+2. sukurti skaiciuotuva kuris priima 2 skaicius ir operacijos (+ - \* /) ir atspausdina rezultata
