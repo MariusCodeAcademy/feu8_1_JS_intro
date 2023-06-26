@@ -40,4 +40,4 @@ pasiziureti angl video bent puse (kas suprantat angliskai) https://youtu.be/W6NZ
 
 1. pabaigti ziureti video
 
-2. sukurti skaiciuotuva kuris priima 2 skaicius ir operacijos (+ - \* /) ir atspausdina rezultata
+2. sukurti skaiciuotuva kuris priima 2 skaicius ir operacija (+ - \* /) ir atspausdina rezultata
