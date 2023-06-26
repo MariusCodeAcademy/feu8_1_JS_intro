@@ -25,3 +25,15 @@ pasiziureti angl video bent puse (kas suprantat angliskai) https://youtu.be/W6NZ
 8. paprasyti vartotojo ivesti 3 skaicius (atskiri 3 promt), issaugoti juos kintamuosiuose ir atspausdinti ju vidurki
 
    8.1 issiaiskinti kodel neveikia (hint typeof)
+
+## daugiau uzduociu 2
+
+1. Susikurkite kintamuosius a, b ir c ir priskirkite jiems skaičių reikšmes. Apskaičiuokite šios lygties reikšmę: a \* b + c. Atspausdinkite rezultatą konsolėje.
+
+2. Susikurkite kintamuosius skaicius ir laipsnis ir paprašykite naudotojo įvesti skaičių ir laipsnį naudojant prompt() funkciją. Pakelkite skaičių laipsniu ir atspausdinkite rezultatą konsolėje.
+
+3. Susikurkite kintamąjį vardas ir paprašykite naudotojo įvesti savo vardą naudojant prompt() funkciją. Pasveikinkite naudotoją, atspausdindami "Labas, {vardas}!" konsolėje.
+
+4. Susikurkite kintamąjį skaicius ir priskirkite jam bet kokį skaičių. Išspausdinkite šio skaičiaus kvadratinę šaknį naudodami console.log() funkciją.
+
+5.
