@@ -5,15 +5,19 @@ console.log('prompt file');
 // console.log(gavau);
 
 let num1 = prompt('pirmas skaicius');
-let num2 = prompt('antras skaicius3');
+let num2 = prompt('antras skaicius');
+console.log('num2 ===', num2);
+console.log('num1 ===', num1);
+console.log(typeof num1);
+let suma = Number(num1) + Number(num2);
 
-console.log(num1, num2);
+console.log(suma);
 
-let oper = '+';
+// let oper = '+';
 
-if (oper === '+') {
-  // darom sudeti
-}
-if (oper === '-') {
-  // darom atimti
-}
+// if (oper === '+') {
+//   // darom sudeti
+// }
+// if (oper === '-') {
+//   // darom atimti
+// }
